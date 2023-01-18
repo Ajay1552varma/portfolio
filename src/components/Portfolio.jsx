@@ -22,7 +22,7 @@ const Portfolio = () => {
     {
       id:3,
       src:port,
-      href:"https://github.com/Ajay1552varma/portfolio",
+      href:"https://ajayvarmaportfolio.netlify.app/",
       code:"https://github.com/Ajay1552varma/portfolio",
     },
     {
