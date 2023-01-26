@@ -40,7 +40,7 @@ const links=[
     Resume <BsFillPersonLinesFill size={30}/>
     </>
   ),
-  href:'/Ajay_cv.pdf',
+  href:'/ajay_resume.pdf',
   style:'rounded-br-md',
   download:true,
 },

@@ -39,7 +39,7 @@ const Home = () => {
                                 <TbArrowNarrowRight size={25} className='ml-1'/>
                             </span>
                         </Link> */}
-                        <a href='./Ajay_cv.pdf' download="Ajay_cv.pdf" className='group text-white w-fit px-6 py-3 my-2
+                        <a href='./ajay_resume.pdf' download="ajay_resume.pdf" className='group text-white w-fit px-6 py-3 my-2
                         flex items-center rounded-md bg-gradient-to-r 
                         from-cyan-500 to-blue-500 cursor-pointer'>
                             Download Resume
